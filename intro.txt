@@ -1,1 +1,3 @@
-Hari pertama perkuliahan Pengembangan Aplikasi Berbasis Web materi git
+Hari pertama perkuliahan Pengembangan Aplikasi Berbasis Web dengan perkenalan materi git
+
+Ini adalah baris baru
